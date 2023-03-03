@@ -1,0 +1,24 @@
+.logo_effect img{
+    height:70px;
+    display:flex;
+    justify-content:left;
+    position:relative;
+    bottom:70px
+    }
+*{
+    margin:0;
+    padding:0;
+}
+
+.cart{
+    border: 7px solid  #2AE30B;
+    padding:10px;
+    margin-left:10px;
+}
+
+.pages{
+    padding-top:3px;
+}
+
+
+

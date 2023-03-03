@@ -1,0 +1,56 @@
+.thali_page{
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_O9spe1jMQCPqCsmiLhUZJhQ4ExmzKtfTmw&usqp=CAU");
+    position:relative;
+    height:100vh;
+    background-size:cover;
+    overflow-x: hidden;
+}
+
+.image_layout{
+    border-radius: 50%;
+}
+
+li{
+    flex-direction: row;
+    display:grid;   
+    padding-left: 80px;
+    color:darkblue;
+     font-family: 'Lobster', cursive;
+     margin-top:50px;
+}
+
+.title_price{
+    word-spacing:4px;
+   padding-left: 60px;
+   padding-top: 20px;
+}
+
+.btn{
+     float: left;
+     column-count: 4;
+    column-gap: 40px;
+}
+
+.main_show{
+  justify-content: space-evenly;
+  display: flex;
+  background-color: DodgerBlue;    
+  line-height: 38px
+}
+
+
+.title{
+  font-family: 'Lobster', cursive;
+  color:darkred;
+  justify-content: center;
+  display: flex;
+  font-weight: bolder;
+}
+
+.price{
+  font-family: 'Lobster', cursive;
+  color:darkred;
+  justify-content: center;
+  display: flex;
+}
+

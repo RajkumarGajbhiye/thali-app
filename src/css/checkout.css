@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color:blue;
+    font-family: 'Lobster', cursive;
+    padding-top: 30px;
+}
+
+.table_data{
+   background: url("https://del-villaggio.co.uk/wp-content/uploads/2014/05/photodune-11213896-italian-food-cooking-ingredients-l.jpg");
+   position:relative;
+    height:100vh;
+    background-size:cover;
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
