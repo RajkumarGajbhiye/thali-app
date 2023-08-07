@@ -1,9 +1,6 @@
-.logo_effect img{
-    height:70px;
-    display:flex;
-    justify-content:left;
-    position:relative;
-    bottom:70px
+.logo_effect{
+    height:3.5rem;
+    width: 7rem;
     }
 *{
     margin:0;
@@ -22,3 +19,10 @@
 
 
 
+@media only screen and  (max-width:488px){
+.btn{
+position: relative;
+top:5rem;
+right:10rem
+}
+}
